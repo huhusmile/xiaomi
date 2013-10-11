@@ -1,0 +1,100 @@
+
+#spans{width: 1190px; height: 578px; margin: 0 auto;}
+#spansa{width: 950px; height: 568px; float: right;}
+.xmslide{width: 950px; height: 410px; margin-bottom: 8px; position: relative;}
+#xmslidcon{width: 950px; height: 410px; border-radius: 5px; position: relative;}
+.aslide{width: 100%; display: none; opacity: 1;}
+.aslide img{width: 950px; height: 410px; border-radius: 5px; vertical-align: middle;}
+.icons{width: 41px; height: 100%; display: none; position: absolute; top: 0; opacity: 0.6; background-image: url("../images/xiaomi/icon-slides.png"); background-repeat: no-repeat;}
+#icons1{left: 0;}
+#icons2{right: 0;}
+.addicons01{background-position: 0 50%;}
+.addicons02{background-position: -41px 50%;}
+.addicons1{background-position: -83px 50%;}
+.addicons2{background-position: -124px 50%;}
+
+.hdshows{width: 960px; height: 150px; margin-left: -10px;}
+.spanrow{width: 230px; height: 150px; float: left; margin-left: 10px;}
+.spanrow a img{width: 230px; height: 150px;}
+#fafa{width: 230px; height: 150px; vertical-align: middle;}
+
+.bordershow a{ display: block;}
+.bordershow a img{border-radius: 5px; vertical-align: middle;}
+.bordershow{position: relative;}
+.divshow{position: absolute; left: 0; top: 0; z-index: 1000; border-radius: 5px; cursor: pointer;}
+
+
+
+#newgoods{width: 1190px; height: 711px; margin: 0 auto;}
+#newgoodsleft{width: 950px; height: 711px; padding-bottom: 10px; float: left;}
+#newhd{width: 950px; height: 50px; border-bottom: 1px solid #e6e9ed; background-color: #fff; border-radius: 5px 5px 0 0;}
+.sheh3{float: left; font-weight: normal; padding-left: 20px; font-size: 18px; color: #434a54; line-height: 50px;}
+#newxia{width: 950px; height: 650px; background-color: #fff;}
+#newxiaL{width: 705px; height: 640px; margin-left: 10px; padding-top: 10px; float: left;}
+.big{width: 460px; height: 310px; float: left; margin-bottom: 10px; margin-right: 10px;}
+.margin{margin-right: 10px;}
+.normal{width: 225px; height: 310px; float: left; margin-bottom: 10px;}
+#newxiaR{width: 225px; height: 640px; padding-top: 10px; float: left;}
+.small{width: 225px; height: 150px; margin: 0 10px 10px 0;}
+.small a img{width: 225px; height: 150px;}
+#newgoodsright{width: 230px; height: 711px; margin-left: 10px; float: left;}
+.xmbox1{width: 230px; height: 300px; margin-bottom: 10px;}
+.xmbox2{width: 230px; height: 261px; margin-bottom: 10px; background-color: #fff; border-radius: 5px;}
+#sha{width: 230px; height: 50px; border-bottom: 1px solid #e6e9ed;}
+#xia{width: 200px; height: 175px; padding: 16px 15px 16px 15px; text-align: left;}
+#fld1{border:0; font-size: 12px; color: #434a54;}
+#fld1 input{width: 196px; height: 38px; padding: 7px 8px; margin-top: 5px; border-radius: 5px; border:1px solid #e6e9ed;}
+#fld2{border:0; font-size: 12px; color: #434a54; margin: 10px 0;}
+#fld3{border:0; font-size: 12px; color: #434a54; margin-bottom: 10px;}
+#rechargePrice{color: #ff6f3d;}
+#fld4{border:0; font-size: 12px; color: #434a54;}
+#fld4 input{width: 198px; height: 40px;margin: 0 auto; text-align: center; font-size: 14px; background-color: #ff6f3d; color: #fff; border-radius: 5px; border:0;}
+
+.xmbox3{width: 230px; height: 120px; margin-bottom: 10px; background-color: #fff; border-radius: 5px;}
+.xmbox3 dl{font-size: 12px; color: #434a54; text-align: left; padding: 15px 0 0 20px; line-height: 22px;}
+
+
+
+#hotgoods{width: 1190px; height: 701px; background-color: #fff; border-radius: 5px; margin: 0 auto;}
+.hothd{width: 1190px; height: 50px; border-bottom: 1px solid #e6e9ed; position: relative;}
+.hothd h3{float: left; position: absolute; left: 0; top:0;}
+#hotcon{width: 1190px; height: 640px; padding-top: 10px;}
+#goods{width: 940px; height: 640px; margin-left: 10px; float: left;}
+#homegoods{ width: 230px; height: 640px; float: left;}
+
+.marg{margin-right: 10px;}
+
+
+
+#hothomegoods{width: 1190px; height: 682px; margin: 10px auto; border-radius: 5px; background-color: #fff;}
+#hothomecon{width: 1190px; height: 631px;}
+#hthcL{width: 460px; height: 610px; padding: 10px 0; margin-left: 10px; float: left;}
+.big1{width: 460px; height: 480px;}
+#hthcR{width: 710px; height: 631px; border-left: 1px solid #e6e9ed; float: right;}
+
+
+#hottodaygood{width: 1190px; height: 381px; margin: 0 auto; background-color: #fff; border-radius: 5px; margin-bottom: 10px;}
+
+#score{width: 460px; height: 20px; margin-top: 16px; margin-bottom: 10px; float: left; text-align: left;}
+#score span{display: inline-block; width: 84px; height: 14px; margin-left: 8px; background-image: url("../images/xiaomi/icon-stat.png"); background-repeat: no-repeat; background-position: 0 1px;}
+#msg{font-size: 12px; color: #434a54; text-align: left; margin: 15px 0 0 9px; height: 41px; padding-top: 10px;}
+
+.goodslist{width: 235px; height: 315px; float: left; border-right: 1px solid #e6e9ed; border-bottom: 1px solid #e6e9ed;}
+
+
+.thumb{display: block; padding: 20px 7px; margin: 0 auto;}
+#th1{ width: 195px; height: 180px;}
+.goodslist a{font-size: 14px; color: #434a54; line-height: 20px;}
+
+.itemname:hover{color: #ff0;}
+
+.borderno{border-right:0;}
+
+.todayha{margin: 10px 10px 0 10px;}
+.todayleft{float: left; border:0; border-left: 1px solid #e6e9ed;text-align: left;}
+
+
+.itemname{padding-left: 20px; font-size: 16px;}
+.itemprice{padding-left: 20px;}
+.yuanprice{padding-left: 20px;}
+

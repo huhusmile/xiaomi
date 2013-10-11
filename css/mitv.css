@@ -1,0 +1,111 @@
+/*---------------------ahzhead--------------------------*/
+.ahzhead{width: 1190px; height: 50px; margin: 0 auto; background-color: #fff; border-bottom: 1px solid #e6e4d3; border-radius: 5px 5px 0 0;}
+.leftCon{height: 50px; line-height: 50px; float: left; padding-left: 20px; font-size: 18px; font-weight: normal; color: #434a54;}
+.rightCon{height: 50px; line-height: 50px; float: right; font-weight: normal; font-size: 14px; color: #333; margin-right: 20px;}
+.rightCon b{font-weight: normal; font-size: 13px; line-height: 50px; color: #ccd1d9;}
+.tab{cursor: pointer; display: inline-block; padding-left: 5px; padding-right: 5px; line-height: 50px; font-size: 14px; color: #434a54;}
+.bold{color: #ff6f3d; cursor: default;}
+.btnsmall{display: inline-block; width: 110px; height: 30px; line-height: 30px; font-size: 12px; text-align: center; margin-left: 5px; background-color: #ff6f3d; border-radius: 4px; color: #fff;}
+
+/*---------------------ahzhead End--------------------------*/
+
+
+
+/*----------------------mitvcontent-------------------------*/
+.mitvcontent{background-color: #f1f1f1; color: #656d78; font-size: 14px; line-height: 20px;}
+
+/*---------------------descpconA--------------------------*/
+.descpconA{width: 1190px; height: 818px; text-align: center; position: relative; margin: 0 auto 14px; *margin-left: 0px;}
+.black{height: 818px; width: 100%; background-image: url("../images/mitv1.jpg"); background-position: 50% 50%;}
+.black h2{margin-top: 50px; display: inline-block; font-size: 56px; color: #fff; line-height: 60px; font-weight: normal;}
+.con{font-size: 29px; margin-top: 15px; color: #fff; line-height: 30px;}
+.price{font-size: 28px; margin-top: 30px; color: #fff; line-height: 30px;}
+/*----------------------descpconA End-------------------------*/
+
+
+
+/*---------------------descpconB--------------------------*/
+.descpconB{width: 1190px; border-bottom: 1px solid #c1c1c1; padding-bottom: 30px; margin: 0 auto;}
+#videolist{width: 930px; height: 208px; margin: 0 auto; padding-top: 40px;}
+#videolist li{float: left; width: 210px; text-align: center; margin-right: 20px; position: relative;}
+#videolist li a img{width: 210px; height: 120px; border-radius: 5px; vertical-align: middle;}
+#videolist li a p{color: #656d78; margin: 14px 0;}
+.play{width: 35px; height: 35px; background-image: url("../images/mitv_play.png"); background-repeat: no-repeat; background-position: 0 0; position: absolute; top: 40px; left: 90px;}
+.play1{background-position: -36px 0;}
+/*---------------------descpconB End--------------------------*/
+
+
+
+/*---------------------descpconC--------------------------*/
+.container1{width: 1190px; margin: 0 auto; border-bottom: 1px solid #c1c1c1; padding-top: 65px; padding-bottom: 40px; text-align: center;}
+.descpconC{}
+.container h3{ font-size: 50px; line-height: 50px; color: #333; font-weight: normal;}
+.desc{margin-top: 20px; color: #666; line-height: 25px; font-size: 16px;}
+.more{margin-top: 15px;}
+.more a{color: #fb5620; font-size: 14px;}
+.more a:hover{text-decoration: underline;}
+.img{margin-top: 30px;}
+.funs{width: 900px; margin: 0 auto; height: 70px;}
+.funn{width: 110px; float: left;padding-top: 50px; font-size: 12px; background-repeat: no-repeat; background-position: 50% 0px;}
+#sxmb{background-image: url("../images/mitv_3.jpg");}
+#threed{background-image: url("../images/mitv_4.jpg");}
+#hd{background-image: url("../images/mitv_5.jpg");}
+#tsj{background-image: url("../images/mitv_6.jpg");}
+#dts{background-image: url("../images/mitv_7.jpg");}
+#db{background-image: url("../images/mitv_8.jpg");}
+#blue{background-image: url("../images/mitv_9.jpg");}
+#wifi{background-image: url("../images/mitv_10.jpg");}
+
+
+#funs1{width: 900px;}
+.funli{width: 100px;}
+#sxmb1{background-image: url("../images/mitv_12.jpg");}
+#threed1{background-image: url("../images/mitv_13.jpg");}
+#hd1{background-image: url("../images/mitv_14.jpg");}
+#tsj1{background-image: url("../images/mitv_15.jpg");}
+#dts1{background-image: url("../images/mitv_16.jpg");}
+#db1{background-image: url("../images/mitv_17.jpg");}
+#blue1{background-image: url("../images/mitv_18.jpg");}
+#wifi1{background-image: url("../images/mitv_19.jpg");}
+#wf1{background-image: url("../images/mitv_20.jpg");}
+
+
+
+
+#funs3{width: 450px;}
+#sxmb2{background-image: url("../images/mitv_221.jpg"); padding-top: 80px;}
+#threed2{background-image: url("../images/mitv_222.jpg"); padding-top: 80px;}
+#hd2{background-image: url("../images/mitv_223.jpg"); padding-top: 80px;}
+#tsj2{background-image: url("../images/mitv_224.jpg"); padding-top: 80px;}
+
+
+.descpconF{padding-bottom: 0; height: 683px; width: 1190px; background-image: url("../images/mitv_260.jpg");}
+
+
+
+.descpconG{width: 1190px; height: 122px; margin: 0 auto; padding-top: 80px; text-align: center;}
+.descpconG a{width: 335px; height: 24px; margin: auto; padding: 10px 0 8px; background-color: #ff7e51; border-radius: 20px; color: #fff; font-size: 16px; display: block;}
+.descpconG a b{width: 38px; height: 21px; background-image: url("../images/"); background-repeat: no-repeat; background-position: 50% 40%;}
+
+
+
+.descpconH{background-color: #f8f8f8; width: 1190px; height: 210px; margin: 0 auto; padding: 50px 0 40px 0;}
+
+.img1{margin-top: 0;}
+.desdul{width: 100%; height: 210px;}
+.mfsh{float: left; border-left: 1px solid #e6e9ed; width: 290px;}
+.info2{border-left: 0;}
+.mfsh h3{font-size: 18px; color: #333; line-height: 30px; font-weight: bold;}
+.con1{margin-top: 5px; line-height: 25px;}
+.mfsh a{margin-top: 10px; color: #fb5620; font-size: 14px; line-height: 20px;}
+/*---------------------descpconC End--------------------------*/
+
+
+/*---------------------mitvcontent End--------------------------*/
+
+
+
+
+
+
+

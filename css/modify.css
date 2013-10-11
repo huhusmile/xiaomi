@@ -1,0 +1,108 @@
+
+/*--------------------header------------------------*/
+.header{width: 1190px; height: 155px; margin: 0 auto 10px;  position: relative;}
+.top{width: 1190px;height: 110px; text-align: right; position: relative;}
+.logo{width: 144px; height: 61px; position: absolute; left: 0px; top: 30px;}
+.iconlogo{display: block; width: 145px; height: 62px; opacity: 1; background-image: url("../images/icon-common.png"); background-repeat: no-repeat; background-position: 0 0;}
+.rightclearfix{width: 1190px; height: 66px; padding-top: 33px; color: #434a54; font-size: 12px; font-family: arial; line-height: 20px; text-align: right;}
+.menu{width: 400px; float: right; padding-top: 10px; margin-right: 105px; *margin-right: 50px;}
+.clearfix{width: 400px; height: 15px; font-family: "Hiragino Sans GB","Microsoft Yahei";}
+.clearfix li{float: right; height: 15px; line-height: 15px; text-align: center; border-right: 1px solid #ccd1d9; padding: 0 15px;}
+.clearfix li a{color: #434a54; line-height: 15px;}
+.clearfix li a:hover{color: #ff6f3d;}
+.search{float: right; position: relative;}
+.txt{color: #ccc; margin-bottom: 6px; font-size: 12px; display: block; width: 370px; height: 40px; line-height: 32px; text-indent: 6px; border:3px solid #ff6f3d; border-radius: 6px; padding: 1px 0;}
+.hdbtnsearch{display: block; width: 50px; height: 40px; cursor: pointer; border:0; position: absolute; right: 0; top: 0; z-index: 2; background-color: transparent;}
+.iconsear{display: block; width: 17px; height: 18px; background-image: url("../images/icon-common.png"); background-position: -223px -51px; background-repeat: no-repeat; position: absolute; right: 10px; top: 10px; z-index: 1;}
+.iconsearbg{display:none; width: 36px; height: 35px;  background-image: url("../images/icon-common.png"); background-position: -402px -12px; background-repeat: no-repeat; position: absolute; right: 3px; top: 3px; z-index: 1;}
+.hot{display: block; text-align: left;}
+.hot a{color: #aab2bd; margin-right: 7px; font-family: "Hiragino Sans GB","Microsoft Yahei";}
+.hot a:hover{color: #333; text-decoration: underline;}
+.shop{display: block; cursor: pointer; width: 110px; height: 40px; line-height: 40px; border:3px solid #f5f7fa; border-radius: 5px 5px 0 0; position: absolute; right: 0; top: 28px; z-index: 2000px; text-align: center;}
+.pay{display: block; float: left; font-family: "Hiragino Sans GB","Microsoft Yahei"; vertical-align: middle; text-align: center; cursor: pointer; color: #434a54;}
+.carthover{display: block; float: left; width: 16px; height: 13px; margin: 13px 4px 0 27px; *margin-left: 10px; background-image: url("../images/icon-common.png"); background-position: -294px -53px; background-repeat: no-repeat;}
+.kaifang{position: absolute; right: 31px; top: 78px;}
+.kaifang a{color: #aab2bd; font-family: "Hiragino Sans GB","Microsoft Yahei";}
+.kaifang a:hover{color: #333; text-decoration: underline;}
+
+.tri{border-width:5px; border-color: #fff transparent transparent; border-style: solid dashed dashed; width: 0; height: 0; position: absolute; left: 196px; top: 130px; z-index: 1000;}
+
+.shophover{width: 110px; height: 40px; border:3px solid #ededed; border-bottom: 0; background-color: #fff; box-shadow: 0 0 0px rgba(0,0,0,0.4); border-radius: 5px 0 5px 5px; z-index: 2000;}
+.minicartlist{display: none; width: 327px; height: 100px; border:3px solid #ededed; background-color: #fff; box-shadow: 0 0 0px rgba(0,0,0,0.4); border-radius: 5px 0 5px 5px; text-align: left; font-size: 12px; z-index: 1001; position: absolute; top: 67px; right: 0px;}
+.minicartlist p{margin: auto; font-size: 16px; display: block;}
+
+
+.navon{width: 1190px; height: 45px; line-height: 45px; color: #fff; font-size: 16px; border-radius: 4px; background-color: #ff6f3d;}
+.side{float: left; display: block; width: 229px; border-right: 1px solid #ed5f30; border-radius: 4px 0 0 4px; cursor: pointer;}
+.side a{color: #fff; font-size: 16px; font-weight: normal;}
+.ssidde{float: left;}
+.lnksli{}
+.lnksli li{display: block; float: left;}
+.lnk{display: block; *float: left; height: 100%; padding: 0 12px; color: #fff; font-size: 16px;}
+
+
+
+.showlist{display: none; width: 230px; height: 578px; color: #333; position: absolute; left: 0; top: 155px; background-color: #ccc; z-index: 1000;}
+.lists{background-color: #fffbea; height: 578px;}
+.lists li{height: 40px; line-height: 40px; font-size: 14px; position: relative; text-align: left; border-bottom: 1px solid #f4edd9;}
+.tit{display: block; width: 100%; text-indent: 16px; color: #974c19;line-height: 40px; font-size: 14px;}
+.iconarrow{width: 14px; height: 14px; background-image: url("../images/icon-common.png"); background-position: -278px -52px; background-repeat: no-repeat; position: absolute; right: 12px; top: 14px;}
+
+/*--------------------header End------------------------*/
+
+/*--------------------container------------------------*/
+.container{width: 100%;}
+/*--------------------container End------------------------*/
+
+/*--------------------footer------------------------*/
+.footer{width: 1190px; height: 473px; margin: 20px auto 0;}
+.footerup{width: 1170px; height: 219px; border:10px solid #fff;}
+.nums{color: #656d78; font-size: 15px; padding: 20px 0; display: block; width: 1170px; height: 40px; border-bottom: 1px solid #ededed;}
+.nums li{float: left; height: 40px; text-align: center;}
+.nums li a{color: #656d78; display: block; height: 40px;  width: 291px; line-height: 40px; text-align: left;}
+.nums li a:hover{color: #ed5f30;}
+.nums li a span{cursor: pointer; font-size: 42px; margin-right: 5px; float: left; margin-left: 90px;}
+.nums li a strong{cursor: pointer; font-size: 14px; font-weight: 400; display: block; line-height: 20px; float: left;}
+.nums li a strong label{cursor: pointer; text-align: left; line-height: 20px;}
+.line{width: 1px; height: 38px; font-size: 0px; background-color: #ccd0d9;}
+
+.service{width: 1170px; height: 98px; padding: 20px 0;}
+.service dl{float: left; width: 10%; padding-left: 4.4%; *width: 117px; *padding-left: 50px; color: #434a54; font-size: 12px; line-height: 20px; text-align: left;}
+.service dl dt{font-weight: 700; margin-bottom: 6px;}
+.service dl dd{height: 24px; line-height: 24px;}
+.service dl dd a{color: #434a54; *display: block; *width: 110px;}
+.service dl dd a:hover{color: #ed5f30;}
+.online{float: right; width: 200px; margin-right: 20px; font-size: 12px;}
+.online ul{text-align: right;}
+#item1{height: 24px; line-height: 24px; font-size: 24px; margin-bottom: 6px;}
+#item1 span{display: block; float: left; width: 31px; height: 22px; margin-right: 10px; *margin-right: 0; background-image: url("../images/icon-common.png"); background-position: -177px -5px; background-repeat: no-repeat;}
+#item1 p{display: block; float: left; width: 155px; *width: 160px; height: 24px; line-height: 24px; font-size: 24px;}
+#item3 a{display: block; float: right; width: 190px; height: 40px; line-height: 40px; color: #fff; font-size: 16px; border-radius: 6px; background-color: #85c143; cursor: pointer; text-align: center;}
+#item3 a:hover{background-color: #8cc846;}
+#item3 span{display: block; float: left; margin: 6px 8px 0 20px; *margin-left: 10px; width: 28px; height: 27px; background-image: url("../images/icon-common.png"); background-position: -148px 0; background-repeat: no-repeat;}
+#item3 p{display: block; float: left;}
+.icomcommom{display: block; float: left; width: 22px; height: 17px; cursor: pointer; margin-top: 5px; margin-right: 1px; background-image: url("../images/icon-common.png"); background-repeat: no-repeat;}
+#iconsina{background-position: -458px -2px;}
+#iconsina:hover{background-position: -485px -2px;}
+#iconkongjian{background-position: -459px -24px;}
+#iconkongjian:hover{background-position: -485px -23px;}
+#iconweixin{background-position: -462px -51px;}
+#iconweixin:hover{background-position: -486px -51px;}
+
+
+
+.info{color: #434a54; text-align: center; padding: 20px 0 30px 0;}
+.info a{color: #434a54; margin: 0 5px;}
+.info a:hover{color: #ed5f30;}
+.info span{color: #434a54; font-size: 12px;}
+.info em{display: inline-block; width: 1px; height: 12px; background-color: #ccd1d9;}
+.info img{display: block; width: 194px; margin: 20px auto 0; height: 20px;}
+.belive{height: 42px; padding-bottom: 80px;}
+.belive a{margin: 0 3px;}
+.belive a img{height: 42px;}
+
+
+#hehe dd{*display: block; *width: 100px;}
+#hehe dd span{*float: left; *display: block; *width: 25px;}
+#hehe dd a{*float: left; *display: block; *width: 70px;}
+/*--------------------footer End------------------------*/
